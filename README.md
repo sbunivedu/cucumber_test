@@ -8,5 +8,5 @@ This project is based on [Cucumber Boilerplate project](https://github.com/webdr
 * Modify `baseUrl` in `wdio.conf.js` to point to the URL to the web app under test.
 * Run individual tests as follows:
 ```
-npx wdio wdio.conf.js --spec ./test/features/login.feature
+npx wdio wdio.conf.js --spec ./src/features/login.feature
 ```
